@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton Pattern", "Singleton Pattern\Singleton Pattern.csproj", "{03A71752-14A9-4F65-8B33-8F75B86890E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protype Pattern", "Protype Pattern\Protype Pattern.csproj", "{DFBA104E-E2EA-44E9-AD46-CA29CC99E165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Protype Pattern", "Protype Pattern\Protype Pattern.csproj", "{DFBA104E-E2EA-44E9-AD46-CA29CC99E165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder Pattern", "Builder Pattern\Builder Pattern.csproj", "{968CA3B3-E865-4048-A8E2-A67E730EE986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DFBA104E-E2EA-44E9-AD46-CA29CC99E165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFBA104E-E2EA-44E9-AD46-CA29CC99E165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFBA104E-E2EA-44E9-AD46-CA29CC99E165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{968CA3B3-E865-4048-A8E2-A67E730EE986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{968CA3B3-E865-4048-A8E2-A67E730EE986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{968CA3B3-E865-4048-A8E2-A67E730EE986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{968CA3B3-E865-4048-A8E2-A67E730EE986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
